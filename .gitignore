@@ -1,0 +1,30 @@
+# Dependencias
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Variables de entorno
+.env
+.env.local
+.env.*.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Assets de otras marcas (no pertenecen a este repo)
+svg-vector-larrysportlogo.svg
+larrysport-cah-web-300x155.png
+logo-larrysport-blue.svg
+
+# Imágenes generadas sin uso definido
+Gemini_Generated_Image_*.png
